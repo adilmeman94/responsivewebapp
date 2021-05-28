@@ -33,7 +33,7 @@ function Home() {
           </p>
         </div>
       </div>
-      <div className="row">
+      <div className="row cardgallery">
         <div className="col-lg-4 col-md-4 col-sm-12 text-center">
           <img src={euroball} className="img-fluid " alt="euroball" />
           <div className="card-body">
