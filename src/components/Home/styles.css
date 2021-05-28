@@ -1,0 +1,35 @@
+.homepage {
+  position: relative;
+  width: 100%;
+}
+
+.bg {
+  width: 100%;
+  position: relative;
+  text-align: center;
+  vertical-align: middle;
+  /* display: inline-block; */
+  align-content: center;
+}
+
+.text-block {
+  position: absolute;
+  top: 20%;
+  color: black;
+  text-align: center;
+  width: 100%;
+}
+
+.btn1 {
+  position: absolute;
+  top: 47%;
+  left: 45%;
+  right: 45%;
+}
+.text-block1 {
+  position: absolute;
+  top: 65%;
+  color: black;
+  text-align: center;
+  width: 100%;
+}
